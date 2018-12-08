@@ -31,7 +31,7 @@ client.on("chat", (channel, user, message, self) => {
 	}
 	
 	
-	if(message === !funcionar){
+	if(message === insira um comando){
 		client.action("insira o nome do seu bot aqui", "insira sua mensagem aqui")
 	}
 	
