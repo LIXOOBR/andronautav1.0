@@ -1,0 +1,2 @@
+site de configuração de moderação https://docs.tmijs.org
+site de achar seu password pro seu chat: https://twitchapps.com/tmi/
