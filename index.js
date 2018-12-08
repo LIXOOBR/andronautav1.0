@@ -26,7 +26,7 @@ client.on("chat", (channel, user, message, self) => {
 	
 	if(user['mod'] === false){
 		if(message.includes("www. ")) || message.includes(".com")){
-		client.timeout("channel, sender, 30, Link detection system trigered.");
+		client.timeout("channel, sender, 30, Link detection system triggered.");
 		}
 	}
 	
